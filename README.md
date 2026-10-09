@@ -6,7 +6,7 @@
 
 **\*\*Project Directory:\*\* `Terraform\_Ravi\_Shankar\_Tripathi`**  
 
-**\*\*Cloud Platform:\*\* AWS (Region: us-east-1)**  
+**\*\*Cloud Platform:\*\* AWS (Region: ap-south-1)**  
 
 **\*\*Tools \& Tech:\*\* Terraform, AWS CLI, Docker, Amazon ECR, Amazon ECS (Fargate), Application Load Balancer, EC2, VPC**
 
